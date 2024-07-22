@@ -1,0 +1,29 @@
+img{
+    width: 100%;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+}
+ul{
+    margin: -2px 0px 5px;
+    background-color:chocolate;
+    align-content: center;
+    height: 30px;
+    text-align: center;
+    padding-right: 30px;
+}
+footer{
+    margin: 150px 0px -8px;
+    background-color: chocolate;
+    height: 30px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.f2{
+    text-align: right;
+    margin-top: -35px;
+    padding-right: 10px;
+}
+.f1{
+    color: #ffffff;
+}
