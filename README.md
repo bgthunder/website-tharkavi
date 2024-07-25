@@ -8,6 +8,7 @@ Tharkavi is a static website designed for a client who is a storywriter. The mai
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Copyright](#copyright)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -46,6 +47,15 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
+
+## Copyright
+
+The following contents of the webpage is under copyright.
+
+- **PDF Files**: All the pdf files of this repository is under copyright.
+- **Image Files**: All the images and picture are copyrighted.
+
+All the above files are highly copyrigted by their respective owners. Please [Contact](#contact) them to use it legally.
 
 ## License
 
