@@ -50,12 +50,12 @@ Contributions are welcome! Please follow these steps:
 
 ## Copyright
 
-The following contents of the webpage is under copyright.
+The following contents of the webpage are under copyright.
 
 - **PDF Files**: All the pdf files of this repository is under copyright.
 - **Image Files**: All the images and picture are copyrighted.
 
-All the above files are highly copyrigted by their respective owners. Please [Contact](#contact) them to use it legally.
+All the above files are highly copyrighted by their respective owners. Please [Contact](#contact) them to use it legally.
 
 ## License
 
