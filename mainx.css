@@ -3,13 +3,20 @@ img{
     height: auto;
     margin: 0px 0px 0px 0px;
 }
-ul{
+.navbar{
+    display: flex;
+    height: 30px;
+    width: auto;
     margin: -2px 0px 5px;
     background-color:chocolate;
-    align-content: center;
-    height: 30px;
-    text-align: center;
-    padding-right: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.nav-container{
+    display: flex;
+    min-width: 400px;
+    align-items: center;
+    justify-content: space-around;
 }
 footer{
     margin: 150px 0px -8px;
