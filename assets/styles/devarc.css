@@ -1,0 +1,12 @@
+.intro,.clearance,.project{
+    text-align: center;
+    padding-top: 40px;
+}
+.about{
+    width: 300px;
+    margin:auto;
+    padding-top: 10px;
+}
+.clearance,.project{
+    font-size: 14px;
+}

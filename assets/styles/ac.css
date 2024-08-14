@@ -1,0 +1,19 @@
+.or{
+    height: 1580px;
+    width: auto;
+    border: 1px solid gainsboro;
+    
+    margin: 30px 10px;
+}
+.mfa,.mfe,.mfd{
+    height: 500px;
+    width: auto;
+    border: 1px solid purple;
+    border-radius: 5px;
+    margin: 20px 10px 10px;
+    text-align: center;
+}
+.head1{
+    margin: 200px auto;
+    opacity: 0.5;
+}

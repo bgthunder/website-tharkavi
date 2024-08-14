@@ -1,0 +1,32 @@
+.l1{
+    color: honeydew;
+}
+.intro{
+    padding-top: 20px;
+    text-align: center;
+}
+.upi{
+    height: 350px;
+    width: auto;
+    display: block;
+    margin: 50px auto 10px;
+}
+.gateway{
+    text-align: center;
+}
+.payimg{
+    display: flex block;
+    margin: auto;
+    align-content: center;
+    justify-content: center;
+}
+.img{
+    height: 30px;
+    width: auto;
+    margin: 10px;
+}
+.aw{
+    width: auto;
+    text-align: center;
+    margin: 0px 20px;
+}
