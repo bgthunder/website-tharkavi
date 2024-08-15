@@ -44,20 +44,20 @@ Contributions are welcome! Please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
 ## Copyright
 
-The following files are under copyright by their respective owners:
+The following files are under copyright restrictions by their respective owners. All rights reserved:
 
 - All the pdf files are highly copyrighted by the client.
 - All the images are copyrighted by their respective owners.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](#LICENSE.md) file for more details.
+This project is licensed under the MIT License while assets like PDFs and Images are under copyright restrictions. See the [LICENSE](LICENSE.md) file for more details.
 
 ## Acknowledgements
 
